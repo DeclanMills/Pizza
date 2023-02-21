@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week4</string>
+    <string-array name="crust">
+        <item>Click to Select</item>
+        <item>Stuffed Crust</item>
+        <item>Thin and Crispy</item>
+    </string-array>
+</resources>
